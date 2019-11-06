@@ -1,3 +1,3 @@
 # gram_schmidt_process
 
-![](name-of-giphy.gif)
+![](Gram-Schmidt_orthonormalization_process.gif)
